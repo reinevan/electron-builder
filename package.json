@@ -1,6 +1,6 @@
 {
-  "name": "@electron-builder/monorepo",
-  "private": true,
+  "name": "@reinevan/electron-builder",
+  "version": "22.8.2",
   "workspaces": [
     "packages/*",
     "test"
